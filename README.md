@@ -1,5 +1,5 @@
 <!-- Banner image (replace with your custom banner) -->
-<img src="/files/banner.png" width="100%" alt="Welcome Banner"/>
+<img src="/files/banner.gif" width="100%"  alt="Welcome Banner"/>
 
 <h1 align="center">Hi, I'm Aditya Pandey 👋</h1>
 <p align="center">
