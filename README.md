@@ -48,14 +48,14 @@
 
 ### 🚀 Featured Projects
 
-🧭 **[Immigrant Support App](#)**  
-A safety-first mobile app for newcomers & tourists — includes emergency alerts, cultural tips, and real-time community support.
+**[SQL Business Insights Project](https://github.com/aditya-pa/sql-business-insights)**  
+This project uses SQL to analyze restaurant customer data, answering key business questions and uncovering insights on ordering behavior and promo code usage.
 
-🌾 **[Predictive Crop Monitoring](#)**  
-ML + satellite imagery = smarter yield predictions & pest alerts for farmers in developing countries.
+**[AWS Order Data Project](https://github.com/aditya-pa/aws-order-data-pipeline)**  
+This project demonstrates how I leveraged various Amazon Web Services (AWS) to build a pipeline for storing, querying, and visualizing order data. The solution involves S3 for storage, Glue for data cataloging, Athena for querying, and QuickSight for visualization. All resources were created and managed directly within the AWS Management Console.
 
-🌫️ **[Air Quality Prediction](#)**  
-AQI analysis & predictions using time series and ML models on real-world pollution datasets.
+**[Cross-Platform-Film-Analytics](https://github.com/aditya-pa/Cross-Platform-Film-Analytics)**  
+An in-depth analysis of IMDb, Amazon, and Netflix film datasets to uncover key trends in movie ratings, sales, and genre distribution.
 
 ---
 
