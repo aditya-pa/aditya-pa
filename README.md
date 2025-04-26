@@ -57,6 +57,9 @@ This project demonstrates how I leveraged various Amazon Web Services (AWS) to b
 **[Cross-Platform-Film-Analytics](https://github.com/aditya-pa/Cross-Platform-Film-Analytics)**  
 An in-depth analysis of IMDb, Amazon, and Netflix film datasets to uncover key trends in movie ratings, sales, and genre distribution.
 
+**[Data Analytics Pipeline using Python and Snowflake](https://github.com/aditya-pa/data-analytics-pipeline-python-snowflake)**
+End-to-end data analytics project using Python, Snowflake, and SQL. The workflow includes splitting a large JSON file for efficient ingestion, uploading data to AWS S3, loading it into Snowflake, and performing data analysis with SQL.
+
 ---
 
 ### 🔥 Fun Facts
