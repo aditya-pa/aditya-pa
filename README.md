@@ -60,6 +60,12 @@ An in-depth analysis of IMDb, Amazon, and Netflix film datasets to uncover key t
 **[Data Analytics Pipeline using Python and Snowflake](https://github.com/aditya-pa/data-analytics-pipeline-python-snowflake)**
 End-to-end data analytics project using Python, Snowflake, and SQL. The workflow includes splitting a large JSON file for efficient ingestion, uploading data to AWS S3, loading it into Snowflake, and performing data analysis with SQL.
 
+**[Walmart Brazil Sales Analysis](https://github.com/aditya-pa/walmart-brazil-sales)**
+This project analyzes Walmart Brazil's sales decline using a Kaggle dataset, with Python for data cleaning and ML-based delay prediction, and SQL for data storage. Three Power BI dashboards (Sales, Reviews, Logistics) and Salesforce CRM drive insights for a 10% sales increase.
+
+**[Complaint Topic Classifier](https://github.com/aditya-pa/Complaint-Classification)**
+This repository contains an automated consumer complaint classification system for the banking sector, Using DistilBERT, it classifies 21,072 complaints from the U.S. Consumer Financial Protection Bureau into five categories
+
 ---
 
 ### 🔥 Fun Facts
